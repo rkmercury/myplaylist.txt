@@ -2,3 +2,4 @@ songs                  dir
 =============================
 hello                rk
 bug                 rk
+bug2                rk
