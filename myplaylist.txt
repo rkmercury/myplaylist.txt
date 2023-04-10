@@ -1,4 +1,5 @@
 songs                  dir
 =============================
 hello                rk
-komuram                 rk
+komuram                 rkbug                 rk
+bug2                rk
